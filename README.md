@@ -1,0 +1,2 @@
+# FakeAntiSpamCenter_iOS
+在桌面上创建一个假的反诈中心图标
