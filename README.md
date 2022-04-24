@@ -4,7 +4,7 @@
 # 使用方法
 ## 方法一
 ### 第一步：
-安装此快捷指令：https://www.icloud.com/shortcuts/6c16a17da2a04b29a32be335db5eac53  
+安装此快捷指令：[安装](https://www.icloud.com/shortcuts/6c16a17da2a04b29a32be335db5eac53)  
 并将[这张照片](https://github.com/zxkmm/FakeAntiSpamCenter_iOS/blob/main/%E5%9B%BE%E5%83%8F.PNG?raw=true)下载到手机相册。
 ### 第二步：
 在“所有快捷指令”页面点击刚刚添加的“国家反诈中心”条目右上角的小点。
